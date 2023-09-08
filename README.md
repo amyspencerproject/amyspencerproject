@@ -1,7 +1,6 @@
-#Hello there 
+![](./git-banner.png)
 
-![](./clark-tibbs-oqStl2L5oxI-unsplash-small.jpg)
-
+# Hello there 
 - 🐝 I’m currently working on a Time Tracking Dashboard
   
 - 🦋 I’m currently learning Node JS, Tailwind, and React Hooks
