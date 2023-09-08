@@ -1,6 +1,6 @@
 #Hello there 
 
-![](./clark-tibbs-oqStl2L5oxI-unsplash.jpg)
+![](./clark-tibbs-oqStl2L5oxI-unsplash-small.jpg)
 
 - 🐝 I’m currently working on a Time Tracking Dashboard
   
