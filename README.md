@@ -1,11 +1,16 @@
 ![](./git-banner.png)
 
-# Hello there 
-- 🐝 I’m currently working on a Time Tracking Dashboard
+# Hello there! I'm Amy - a Frontend Developer who loves all things code
+
+- 🤖 I’m particularly passionate about Javascript, React and Web Accessibility
   
-- 🦋 I’m currently learning Node JS, Tailwind, and React Hooks
+- 🦋 I’m currently learning Node JS, and React Hooks
 
-- 📫 How to reach me: ...
+- 🚀 I'm always striving to write clean code
 
-- 🌟 Fun fact: ...
+- 🪢 I'm open to collaboration
+
+- 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/amyspencercodes/)
+
+- 🌟 Fun fact: A ["jiffy"](https://en.wikipedia.org/wiki/Jiffy_(time)) is a real unit of time, equal to how long it takes for light to travel one femtometer
 
