@@ -6,11 +6,7 @@
   
 - 🦋 I’m currently learning Node JS, and React Hooks
 
-- 🚀 I'm always striving to write clean code
-
-- 🪢 I'm open to collaboration
-
-- 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/amyspencercodes/)
+- 🪢 I'm open to collaboration 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/amyspencercodes/)
 
 - 🌟 Fun fact: A ["jiffy"](https://en.wikipedia.org/wiki/Jiffy_(time)) is a real unit of time, equal to the time it takes for light to travel one femtometer
 
