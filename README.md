@@ -1,4 +1,4 @@
-![](./git-banner.png)
+![]()
 
 # Hello there! I'm Amy - a Frontend Developer who loves all things code
 
