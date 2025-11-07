@@ -2,9 +2,9 @@
 
 # Hello there! I'm Amy - a Frontend Developer who loves all things code
 
-- 🤖 I’m particularly passionate about Javascript, React, and Web Accessibility
+- 🤖 I’m particularly interested about Javascript, React, and Web Accessibility
   
-- 🦋 I’m currently learning Node JS, and React Hooks
+- 🦋 I’m currently exploring Vibe coding but also reviewing JS fundementals 
 
 - 🪢 I'm open to collaboration 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/amyspencercodes/)
 
