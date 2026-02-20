@@ -2,7 +2,7 @@
 
 # Hello there! I'm Amy - a Frontend Developer who loves all things code
 
-- 🤖 I’m particularly interested about Javascript, React, and Web Accessibility
+- 🤖 I’m particularly interested building with AI
   
 - 🦋 I’m currently exploring Vibe coding but also reviewing JS fundementals 
 
